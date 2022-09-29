@@ -1,4 +1,4 @@
-Nama  : Restu Ramdani
-NIM   : 20220040138
-KELAS : TI22A
-PRODI : Teknik Informatika
+Nama  : Restu Ramdani <br>
+NIM   : 20220040138 <br>
+KELAS : TI22A <br>
+PRODI : Teknik Informatika <br>
