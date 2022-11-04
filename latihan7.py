@@ -18,16 +18,16 @@ while (True) :
     
     if no_menu == "1" :
         print ("Menu -- Hitung Luas Segitiga")
-        alas = int(input("\nMasukan Alas Segitiga : "))
-        tinggi = int(input("Masukan Tinggi Segitiga : "))
+        alas = float(input("\nMasukan Alas Segitiga : "))
+        tinggi = float(input("Masukan Tinggi Segitiga : "))
 
         rumus1 = 1/2 * alas * tinggi
         print("\nLuas Segitiga : ", rumus1)
         print("--------------------------")
     elif no_menu == "2" :
         print("Menu -- Hitung Luas Persegi Panjang")
-        panjang = int(input("\nMasukan Panjang persegi : "))
-        lebar = int(input("Masukan Lebar Persegi : "))
+        panjang = float(input("\nMasukan Panjang persegi : "))
+        lebar = float(input("Masukan Lebar Persegi : "))
 
         rumus2 = panjang * lebar
         print("\nLuas Persegi Panjang : ", rumus2)
